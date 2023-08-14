@@ -1,4 +1,5 @@
 ![Tatiana Prozorova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatianaprozorova&show_icons=true&rank_icon=github&theme=transparent)
+<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tatianaprozorova)](https://git.io/streak-stats)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianaprozorova)](https://github.com/tatianaprozorova/github-readme-stats)
 
 <!--### Hi there 👋
