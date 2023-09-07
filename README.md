@@ -1,5 +1,5 @@
 ![Tatiana Prozorova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatianaprozorova&show_icons=true&rank_icon=github&theme=tokyonight-duo)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatianaprozorova&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatianaprozorova&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianaprozorova)](https://github.com/tatianaprozorova/github-readme-stats.vercel.app/api?username=tatianaprozorova&show_icons=true&rank_icon=github&theme=tokyonight)
 
 ### Hi there 👋
